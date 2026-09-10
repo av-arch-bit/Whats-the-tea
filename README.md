@@ -1,15 +1,33 @@
-# What’s the tea?
-What's the Tea? is a Slack bot that makes it easy to get the latest news directly in Slack.
+# What’s the Tea? 
+A Slack bot designed to fetch and share recent news when requested through Slack.
 
-## What it does
-The bot fetches news and shares it directly in Slack.
+## Current Status
+The Slack bot is currently set up and running using the provided template.
+At the moment, the bot responds through the Slack command structure but the news-fetching functionality has not yet been implemented. The current version is a working prototype.
 
-## How to use
-Use the `/whats-the-tea` command in a Slack channel to get the latest news.
+## Planned Functionality
+The intended workflow is:
+1. A user sends the bot a Slack command.
+2. The bot receives the request.
+3. The bot fetches relevant recent news.
+4. The bot returns the news to the Slack channel.
 
-## Demo
-The bot can be tested in the Slack demo channel linked in the StarDance submission.
+## Current Features
+* Slack app and bot setup
+* Slash command structure
+* Working bot template
+* Basic Slack response
 
-## Built with
-- Python
-- Slack API
+## Future Improvements
+* Connect the bot to a news API
+* Fetch current news based on the user’s request
+* Display news in a clear format
+* Add error handling for failed requests or unavailable news
+
+## Built With
+* Slack
+* Slack API
+* Project template
+
+## Note
+This is an early prototype. The news-fetching functionality is planned but is not currently functional.
