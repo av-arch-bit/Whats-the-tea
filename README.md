@@ -2,8 +2,8 @@
 A Slack bot designed to fetch and share recent news when requested through Slack.
 
 ## Current Status
-The Slack bot is currently set up and running using the provided template.
-At the moment, the bot responds through the Slack command structure but the news-fetching functionality has not yet been implemented. The current version is a working prototype.
+The Slack bot is currently set up and running!
+At the moment, the bot responds through the Slack command structure but the news-fetching function has not yet been implemented. The current version is a working prototype.
 
 ## Planned Functionality
 The intended workflow is:
@@ -22,12 +22,6 @@ The intended workflow is:
 * Connect the bot to a news API
 * Fetch current news based on the user’s request
 * Display news in a clear format
-* Add error handling for failed requests or unavailable news
-
-## Built With
-* Slack
-* Slack API
-* Project template
-
+  
 ## Note
 This is an early prototype. The news-fetching functionality is planned but is not currently functional.
