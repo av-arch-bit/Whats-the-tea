@@ -13,10 +13,10 @@ The intended workflow is:
 4. The bot returns the news to the Slack channel.
 
 ## Current Features
-* Slack app and bot setup
-* Slash command structure
-* Working bot template
-* Basic Slack response
+ Slash commands:
+ - /whats-the-tea
+ - /whats-the-tea-catfact - gives a cat fact
+ - /whats-the-tea-joke - gives a joke
 
 ## Future Improvements
 * Connect the bot to a news API
